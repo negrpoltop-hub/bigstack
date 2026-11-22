@@ -1,0 +1,7 @@
+big-stack-size: 99
+small-stack-size: 32
+potion-stack-size: 16
+hold-drop-seconds: 3.0
+hold-gap-ms: 500
+exclude: []
+exclude-damageable: true
