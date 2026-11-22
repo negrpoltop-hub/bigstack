@@ -1,0 +1,5 @@
+name: BigStacks
+version: 1.0
+main: ru.bigstacks.BigStacks
+api-version: '1.21'
+description: Custom stack sizes and hold-to-drop-all
